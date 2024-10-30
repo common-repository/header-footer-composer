@@ -1,0 +1,519 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-09-21 14:39+0545\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: header-footer-composer.php:84
+#, php-format
+msgid ""
+"The <strong>Header Footer Composer</strong> plugin requires <strong><a href="
+"\"%s\">Elementor</strong></a> plugin installed & activated."
+msgstr ""
+
+#: admin/class-header-footer-composer-admin.php:55
+#: admin/class-header-footer-composer-admin.php:56
+#: includes/class-header-footer-composer-widgets.php:29
+msgid "Header Footer Composer"
+msgstr ""
+
+#: includes/class-header-footer-composer-metabox.php:20
+msgid "Layout Type"
+msgstr ""
+
+#: includes/class-header-footer-composer-post-type.php:22
+msgctxt "Post Type General Name"
+msgid "Header Footer Layout"
+msgstr ""
+
+#: includes/class-header-footer-composer-post-type.php:23
+msgctxt "Post Type Singular Name"
+msgid "Header Footer Layout"
+msgstr ""
+
+#: includes/class-header-footer-composer-post-type.php:24
+msgid "Header Footer Layouts"
+msgstr ""
+
+#: includes/class-header-footer-composer-post-type.php:25
+#: includes/class-header-footer-composer-post-type.php:51
+msgid "Header Footer Layout"
+msgstr ""
+
+#: includes/class-header-footer-composer-post-type.php:26
+msgid "Layout Archives"
+msgstr ""
+
+#: includes/class-header-footer-composer-post-type.php:27
+msgid "Layout Attributes"
+msgstr ""
+
+#: includes/class-header-footer-composer-post-type.php:28
+msgid "Parent Layout:"
+msgstr ""
+
+#: includes/class-header-footer-composer-post-type.php:29
+msgid "All Layouts"
+msgstr ""
+
+#: includes/class-header-footer-composer-post-type.php:30
+#: includes/class-header-footer-composer-post-type.php:31
+msgid "Add New Layout"
+msgstr ""
+
+#: includes/class-header-footer-composer-post-type.php:32
+msgid "New Layout"
+msgstr ""
+
+#: includes/class-header-footer-composer-post-type.php:33
+msgid "Edit Layout"
+msgstr ""
+
+#: includes/class-header-footer-composer-post-type.php:34
+msgid "Update Layout"
+msgstr ""
+
+#: includes/class-header-footer-composer-post-type.php:35
+msgid "View Layout"
+msgstr ""
+
+#: includes/class-header-footer-composer-post-type.php:36
+msgid "View Layouts"
+msgstr ""
+
+#: includes/class-header-footer-composer-post-type.php:37
+msgid "Search Layout"
+msgstr ""
+
+#: includes/class-header-footer-composer-post-type.php:38
+msgid "Not found"
+msgstr ""
+
+#: includes/class-header-footer-composer-post-type.php:39
+msgid "Not found in Trash"
+msgstr ""
+
+#: includes/class-header-footer-composer-post-type.php:40
+msgid "Featured Image"
+msgstr ""
+
+#: includes/class-header-footer-composer-post-type.php:41
+msgid "Set featured image"
+msgstr ""
+
+#: includes/class-header-footer-composer-post-type.php:42
+msgid "Remove featured image"
+msgstr ""
+
+#: includes/class-header-footer-composer-post-type.php:43
+msgid "Use as featured image"
+msgstr ""
+
+#: includes/class-header-footer-composer-post-type.php:44
+msgid "Insert into Layout"
+msgstr ""
+
+#: includes/class-header-footer-composer-post-type.php:45
+msgid "Uploaded to this Layout"
+msgstr ""
+
+#: includes/class-header-footer-composer-post-type.php:46
+msgid "Layouts list"
+msgstr ""
+
+#: includes/class-header-footer-composer-post-type.php:47
+msgid "Layouts list navigation"
+msgstr ""
+
+#: includes/class-header-footer-composer-post-type.php:48
+msgid "Filter layouts list"
+msgstr ""
+
+#: includes/class-header-footer-composer-post-type.php:52
+msgid "Header Footer Layout Composer for Elementor"
+msgstr ""
+
+#: includes/widgets/hfc-navmenu.php:29 includes/widgets/hfc-navmenu.php:63
+#: includes/widgets/hfc-overlay-nav.php:63
+msgid "Nav Menu"
+msgstr ""
+
+#: includes/widgets/hfc-navmenu.php:50 includes/widgets/hfc-overlay-nav.php:50
+msgid "Select a Menu"
+msgstr ""
+
+#: includes/widgets/hfc-navmenu.php:71 includes/widgets/hfc-overlay-nav.php:71
+msgid "Select Menu"
+msgstr ""
+
+#: includes/widgets/hfc-navmenu.php:84 includes/widgets/hfc-overlay-nav.php:83
+msgid ""
+"<small>Please Go to the Dashboard >> Appereance >> Menus screen to manage "
+"your menus."
+msgstr ""
+
+#: includes/widgets/hfc-navmenu.php:91 includes/widgets/hfc-navmenu.php:125
+msgid "Menu Layout"
+msgstr ""
+
+#: includes/widgets/hfc-navmenu.php:99 includes/widgets/hfc-navmenu.php:652
+#: includes/widgets/hfc-overlay-nav.php:89
+#: includes/widgets/hfc-sitelogo.php:43 includes/widgets/hfc-sitetitle.php:73
+msgid "Alignment"
+msgstr ""
+
+#: includes/widgets/hfc-navmenu.php:103 includes/widgets/hfc-navmenu.php:165
+#: includes/widgets/hfc-navmenu.php:657
+#: includes/widgets/hfc-overlay-nav.php:95
+#: includes/widgets/hfc-sitelogo.php:48 includes/widgets/hfc-sitetitle.php:78
+msgid "Left"
+msgstr ""
+
+#: includes/widgets/hfc-navmenu.php:107 includes/widgets/hfc-navmenu.php:169
+#: includes/widgets/hfc-navmenu.php:661
+#: includes/widgets/hfc-overlay-nav.php:99
+#: includes/widgets/hfc-sitelogo.php:52 includes/widgets/hfc-sitetitle.php:82
+msgid "Center"
+msgstr ""
+
+#: includes/widgets/hfc-navmenu.php:111 includes/widgets/hfc-navmenu.php:173
+#: includes/widgets/hfc-navmenu.php:665
+#: includes/widgets/hfc-overlay-nav.php:103
+#: includes/widgets/hfc-sitelogo.php:56 includes/widgets/hfc-sitetitle.php:86
+msgid "Right"
+msgstr ""
+
+#: includes/widgets/hfc-navmenu.php:129
+msgid "Horizontal"
+msgstr ""
+
+#: includes/widgets/hfc-navmenu.php:130
+msgid "Vertical"
+msgstr ""
+
+#: includes/widgets/hfc-navmenu.php:141
+msgid "Dropdown Icon"
+msgstr ""
+
+#: includes/widgets/hfc-navmenu.php:145
+msgid "Classic"
+msgstr ""
+
+#: includes/widgets/hfc-navmenu.php:146
+msgid "Chevron"
+msgstr ""
+
+#: includes/widgets/hfc-navmenu.php:147
+msgid "Angle"
+msgstr ""
+
+#: includes/widgets/hfc-navmenu.php:148
+msgid "Plus"
+msgstr ""
+
+#: includes/widgets/hfc-navmenu.php:149
+msgid "None"
+msgstr ""
+
+#: includes/widgets/hfc-navmenu.php:160
+msgid "Submenu Alignment"
+msgstr ""
+
+#: includes/widgets/hfc-navmenu.php:187
+msgid "Mobile Menu Layout"
+msgstr ""
+
+#: includes/widgets/hfc-navmenu.php:196
+msgid "Enable Mobile Toggle"
+msgstr ""
+
+#: includes/widgets/hfc-navmenu.php:198 includes/widgets/hfc-navmenu.php:211
+msgid "Yes"
+msgstr ""
+
+#: includes/widgets/hfc-navmenu.php:199 includes/widgets/hfc-navmenu.php:212
+msgid "No"
+msgstr ""
+
+#: includes/widgets/hfc-navmenu.php:209
+msgid "Enable Overlay Menu in Mobile"
+msgstr ""
+
+#: includes/widgets/hfc-navmenu.php:227
+#: includes/widgets/hfc-overlay-nav.php:118
+msgid "Main Menu"
+msgstr ""
+
+#: includes/widgets/hfc-navmenu.php:235
+msgid "Navbar Background Color"
+msgstr ""
+
+#: includes/widgets/hfc-navmenu.php:247 includes/widgets/hfc-navmenu.php:417
+#: includes/widgets/hfc-overlay-nav.php:139
+#: includes/widgets/hfc-sitetitle.php:126
+#: includes/widgets/hfc-sitetitle.php:165
+msgid "Typography"
+msgstr ""
+
+#: includes/widgets/hfc-navmenu.php:267 includes/widgets/hfc-navmenu.php:436
+#: includes/widgets/hfc-overlay-nav.php:159
+msgid "Normal"
+msgstr ""
+
+#: includes/widgets/hfc-navmenu.php:274 includes/widgets/hfc-navmenu.php:443
+#: includes/widgets/hfc-overlay-nav.php:166
+msgid "Link Color"
+msgstr ""
+
+#: includes/widgets/hfc-navmenu.php:286 includes/widgets/hfc-navmenu.php:455
+#: includes/widgets/hfc-overlay-nav.php:178
+msgid "Link Background Color"
+msgstr ""
+
+#: includes/widgets/hfc-navmenu.php:300 includes/widgets/hfc-navmenu.php:469
+#: includes/widgets/hfc-overlay-nav.php:192
+msgid "Hover"
+msgstr ""
+
+#: includes/widgets/hfc-navmenu.php:307 includes/widgets/hfc-navmenu.php:476
+#: includes/widgets/hfc-overlay-nav.php:199
+msgid "Hover Link Color"
+msgstr ""
+
+#: includes/widgets/hfc-navmenu.php:318 includes/widgets/hfc-navmenu.php:487
+#: includes/widgets/hfc-overlay-nav.php:210
+msgid "Hover Link Background Color"
+msgstr ""
+
+#: includes/widgets/hfc-navmenu.php:330 includes/widgets/hfc-navmenu.php:499
+msgid "Active"
+msgstr ""
+
+#: includes/widgets/hfc-navmenu.php:337 includes/widgets/hfc-navmenu.php:506
+msgid "Active Link Color"
+msgstr ""
+
+#: includes/widgets/hfc-navmenu.php:348 includes/widgets/hfc-navmenu.php:517
+msgid "Active Link Background Color"
+msgstr ""
+
+#: includes/widgets/hfc-navmenu.php:370 includes/widgets/hfc-navmenu.php:560
+#: includes/widgets/hfc-navmenu.php:707
+#: includes/widgets/hfc-overlay-nav.php:231
+#: includes/widgets/hfc-overlay-nav.php:351
+#: includes/widgets/hfc-sitelogo.php:115
+msgid "Padding"
+msgstr ""
+
+#: includes/widgets/hfc-navmenu.php:382 includes/widgets/hfc-navmenu.php:572
+#: includes/widgets/hfc-overlay-nav.php:243
+#: includes/widgets/hfc-sitelogo.php:127
+msgid "Margin"
+msgstr ""
+
+#: includes/widgets/hfc-navmenu.php:396
+msgid "Dropdown"
+msgstr ""
+
+#: includes/widgets/hfc-navmenu.php:404
+msgid "Dropdown Background Color"
+msgstr ""
+
+#: includes/widgets/hfc-navmenu.php:540 includes/widgets/hfc-sitelogo.php:107
+msgid "Border"
+msgstr ""
+
+#: includes/widgets/hfc-navmenu.php:548 includes/widgets/hfc-navmenu.php:695
+#: includes/widgets/hfc-overlay-nav.php:339
+msgid "Border Radius"
+msgstr ""
+
+#: includes/widgets/hfc-navmenu.php:586
+#: includes/widgets/hfc-overlay-nav.php:257
+msgid "Toggle Button"
+msgstr ""
+
+#: includes/widgets/hfc-navmenu.php:594
+#: includes/widgets/hfc-overlay-nav.php:265
+#: includes/widgets/hfc-sitetitle.php:149
+msgid "Color"
+msgstr ""
+
+#: includes/widgets/hfc-navmenu.php:606
+#: includes/widgets/hfc-overlay-nav.php:126
+#: includes/widgets/hfc-overlay-nav.php:277
+#: includes/widgets/hfc-stickyheader.php:92
+msgid "Background Color"
+msgstr ""
+
+#: includes/widgets/hfc-navmenu.php:626
+#: includes/widgets/hfc-overlay-nav.php:296
+msgid "Size"
+msgstr ""
+
+#: includes/widgets/hfc-navmenu.php:687
+#: includes/widgets/hfc-overlay-nav.php:331
+msgid "Toggle Border"
+msgstr ""
+
+#: includes/widgets/hfc-overlay-nav.php:29
+msgid "Overlay Nav Menu"
+msgstr ""
+
+#: includes/widgets/hfc-overlay-nav.php:373
+msgid "&#9776;"
+msgstr ""
+
+#: includes/widgets/hfc-sitelogo.php:14 includes/widgets/hfc-sitelogo.php:28
+msgid "Site Logo"
+msgstr ""
+
+#: includes/widgets/hfc-sitelogo.php:37
+msgid ""
+"<small>Please upload your logo from Dashboard >> Customizer >> Site "
+"Identity. Your theme must support \"custom-logo\" for this to work.</small>"
+msgstr ""
+
+#: includes/widgets/hfc-sitelogo.php:71
+msgid "Logo"
+msgstr ""
+
+#: includes/widgets/hfc-sitelogo.php:79
+msgid "Width"
+msgstr ""
+
+#: includes/widgets/hfc-sitetitle.php:14 includes/widgets/hfc-sitetitle.php:28
+#: includes/widgets/hfc-sitetitle.php:101
+msgid "Site Title"
+msgstr ""
+
+#: includes/widgets/hfc-sitetitle.php:35
+msgid "Show Site Description"
+msgstr ""
+
+#: includes/widgets/hfc-sitetitle.php:37
+msgid "Show"
+msgstr ""
+
+#: includes/widgets/hfc-sitetitle.php:38
+msgid "Hide"
+msgstr ""
+
+#: includes/widgets/hfc-sitetitle.php:54
+msgid "HTML Tag"
+msgstr ""
+
+#: includes/widgets/hfc-sitetitle.php:58
+msgid "H1"
+msgstr ""
+
+#: includes/widgets/hfc-sitetitle.php:59
+msgid "H2"
+msgstr ""
+
+#: includes/widgets/hfc-sitetitle.php:60
+msgid "H3"
+msgstr ""
+
+#: includes/widgets/hfc-sitetitle.php:61
+msgid "H4"
+msgstr ""
+
+#: includes/widgets/hfc-sitetitle.php:62
+msgid "H5"
+msgstr ""
+
+#: includes/widgets/hfc-sitetitle.php:63
+msgid "H6"
+msgstr ""
+
+#: includes/widgets/hfc-sitetitle.php:64
+msgid "div"
+msgstr ""
+
+#: includes/widgets/hfc-sitetitle.php:65
+msgid "span"
+msgstr ""
+
+#: includes/widgets/hfc-sitetitle.php:66
+msgid "p"
+msgstr ""
+
+#: includes/widgets/hfc-sitetitle.php:110
+msgid "Title Color"
+msgstr ""
+
+#: includes/widgets/hfc-sitetitle.php:137
+msgid "Site Description"
+msgstr ""
+
+#: includes/widgets/hfc-stickyheader.php:9
+msgid "Sticky Header"
+msgstr ""
+
+#: includes/widgets/hfc-stickyheader.php:17
+msgid "Enable Sticky Header"
+msgstr ""
+
+#: includes/widgets/hfc-stickyheader.php:19
+#: includes/widgets/hfc-stickyheader.php:116
+msgid "On"
+msgstr ""
+
+#: includes/widgets/hfc-stickyheader.php:20
+#: includes/widgets/hfc-stickyheader.php:117
+msgid "Off"
+msgstr ""
+
+#: includes/widgets/hfc-stickyheader.php:31
+msgid "Enabled On"
+msgstr ""
+
+#: includes/widgets/hfc-stickyheader.php:37
+msgid "Desktop"
+msgstr ""
+
+#: includes/widgets/hfc-stickyheader.php:38
+msgid "Tablet"
+msgstr ""
+
+#: includes/widgets/hfc-stickyheader.php:39
+msgid "Mobile"
+msgstr ""
+
+#: includes/widgets/hfc-stickyheader.php:61
+msgid "Scroll Distance (px)"
+msgstr ""
+
+#: includes/widgets/hfc-stickyheader.php:70
+msgid "Choose the scroll distance to enable Sticky Header Effects"
+msgstr ""
+
+#: includes/widgets/hfc-stickyheader.php:114
+msgid "Bottom Border"
+msgstr ""
+
+#: includes/widgets/hfc-stickyheader.php:132
+msgid "Border Color"
+msgstr ""
+
+#: includes/widgets/hfc-stickyheader.php:145
+msgid "Border Size (px)"
+msgstr ""
+
+#: includes/widgets/hfc-stickyheader.php:154
+msgid "Only adds bottom border to the sticky header."
+msgstr ""
